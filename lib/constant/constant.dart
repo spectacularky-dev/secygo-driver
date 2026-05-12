@@ -38,7 +38,7 @@ class Constant {
 
   static UserModel? userModel;
   static SectionModel? sectionModel;
-  static const globalUrl = "https://Replace_your_domain/";
+  static const globalUrl = "https://secygo.hafrik.com/store/";
 
   static bool isMaintenanceModeForDriver = false;
 
